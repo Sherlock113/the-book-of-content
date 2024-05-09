@@ -8,3 +8,9 @@ A collection of materials and tools for technical content creation.
 - [Google Developer Documentation Style Guide](https://developers.google.com/style)
 - [Microsoft Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/)
 - [Apple Style Guide](https://support.apple.com/guide/applestyleguide/welcome/web)
+
+## Documentation sites
+
+- [Mintlify](https://mintlify.com/)
+- [Gitbooks](https://www.gitbook.com/)
+- [Document360](https://document360.com/)
