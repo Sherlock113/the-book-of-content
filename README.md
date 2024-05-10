@@ -1,6 +1,6 @@
 # The Book of Content
 
-A collection of materials and tools for technical content creation.
+Technical content is equal parts language and technical expertise.
 
 ## Courses
 
