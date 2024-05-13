@@ -15,6 +15,7 @@ Technical content is equal parts language and technical expertise.
 - [Red Hat Technical Writing Style Guide](https://stylepedia.net/style)
 - [GitLab Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/)
 - [IBM Design Language](https://www.ibm.com/design/language/)
+- [CommonMark Spec](https://spec.commonmark.org/)
 
 ## Documentation sites
 
