@@ -22,3 +22,8 @@ Technical content is equal parts language and technical expertise.
 - [Mintlify](https://mintlify.com/)
 - [Gitbooks](https://www.gitbook.com/)
 - [Document360](https://document360.com/)
+
+## Design tools
+
+- [Figma](https://www.figma.com/)
+- [Sketch](https://www.sketch.com/)
